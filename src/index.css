@@ -3,7 +3,7 @@
 
 
 :root {
-  --color-primary: #18203a;
+  --color-primary: #182030;
   --color-primary-dull: #22c55e;
 }
 
@@ -18,3 +18,4 @@ body {
   color: white;
   background-color: #09090B;
 }
+
